@@ -6,6 +6,7 @@
 }
 body{
     background-color: #001;
+    display: flex;
 }
 .profile h2{
     
@@ -75,4 +76,16 @@ ul li a:hover , .active{
 }
 .log-out a{
     background-color: rgb(226, 0, 0);
+}
+.content{
+    width: 100%;
+}
+.title{
+    background-color: #0481ff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 10px 5px;
 }
