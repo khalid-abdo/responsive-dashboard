@@ -2,12 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: #fafafa;
 }
 body{
     background-color: #001;
 }
 .profile h2{
-    color: #fafafa;
+    
     text-transform: capitalize;
 }
 .profile{
